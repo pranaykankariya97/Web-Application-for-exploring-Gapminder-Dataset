@@ -9,7 +9,7 @@ This application is to analyze and visualize life expectancy,population and GDP 
 ![Life Expectancy vs GDP](https://github.com/pranaykankariya97/Web-Application-for-exploring-Gapminder-Dataset/blob/master/images/GDP and LifeExpectancy.png)
 
 ---
-![Animated Visualization](https://github.com/pranaykankariya97/Web-Application-for-exploring-Gapminder-Dataset/blob/master/images/Animatiom.png)
+![Animated Visualization](https://github.com/pranaykankariya97/Web-Application-for-exploring-Gapminder-Dataset/blob/master/images/Animation.png)
 
 ## How To Run This Application
 After downloading the file, type in your Command prompt:
