@@ -3,6 +3,7 @@
 
 ## Project Overview
 This application is to analyze and visualize life expectancy,population and GDP worldwide from year 1952-2007.
+
 ![Year vs Population](https://github.com/pranaykankariya97/Web-Application-for-exploring-Gapminder-Dataset/blob/master/images/Population.png)
 
 ---
@@ -25,6 +26,6 @@ This project uses the following software and libraries:
 * [Plotly-Express](https://plotly.com/python/plotly-express/)
 
 ## Contact
-Email: pranaykankariya97@gmail.com
+Email: pranaykankariya97@gmail.com \
 Project Link: [https://github.com/pranaykankariya97/Web-Application-for-exploring-Gapminder-Dataset](https://github.com/pranaykankariya97/Web-Application-for-exploring-Gapminder-Dataset)
 
