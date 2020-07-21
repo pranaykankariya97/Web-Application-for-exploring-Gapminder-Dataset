@@ -3,13 +3,13 @@
 
 ## Project Overview
 This application is to analyze and visualize life expectancy,population and GDP worldwide from year 1952-2007.
-! [Year vs Population](images\Year vs Population.png)
+![Year vs Population](https://github.com/pranaykankariya97/Web-Application-for-exploring-Gapminder-Dataset/blob/master/images/Year vs Population.png)
 
 ---
-! [Life Expectancy vs GDP](images\GDP and LifeExpectancy.png)
+![Life Expectancy vs GDP](https://github.com/pranaykankariya97/Web-Application-for-exploring-Gapminder-Dataset/blob/master/images/GDP and LifeExpectancy.png)
 
 ---
-! [Animated Visualization](images\Animatiom.png)
+![Animated Visualization](https://github.com/pranaykankariya97/Web-Application-for-exploring-Gapminder-Dataset/blob/master/images/Animation.png)
 
 ## How To Run This Application
 After downloading the file, type in your Command prompt:
