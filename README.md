@@ -3,13 +3,13 @@
 
 ## Project Overview
 This application is to analyze and visualize life expectancy,population and GDP worldwide from year 1952-2007.
-! [Year vs Population](images\Year vs Population.png)
+![Year vs Population](images\Year vs Population.png)
 
 ---
-! [Life Expectancy vs GDP](images\GDP and LifeExpectancy.png)
+![Life Expectancy vs GDP](images\GDP and LifeExpectancy.png)
 
 ---
-! [Animated Visualization](images\Animatiom.png)
+![Animated Visualization](images\Animatiom.png)
 
 ## How To Run This Application
 After downloading the file, type in your Command prompt:
